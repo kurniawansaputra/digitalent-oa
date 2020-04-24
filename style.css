@@ -61,7 +61,7 @@ header {
     width: 100%;
     padding: 290px 0 100px 0;
     
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../digitalent-oa-master/images/web-designer1-res.jpg');   
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('images/web-designer1-res.jpg');   
     background-size: cover;
     color: white;
     text-align: center;
