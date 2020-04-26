@@ -1,0 +1,43 @@
+/* untuk Tablet */
+@media (max-width: 1170px) {
+
+    .container {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .service {
+        width: 50%;
+    }
+
+    .header-right {
+        padding-right: 100px;
+        
+    }
+        
+    .header-right a:hover {
+            background-color: white;
+            color: black;
+    }
+        
+    .header-right a {
+            line-height: 65px;
+            padding: 0 25px;
+            box-sizing: border-box;
+            align-items: center;
+            color: rgb(255, 255, 255);
+            display: block;
+            float: left;
+            transition: all 0.5s;
+     }
+
+        .profile {
+           width: 50%;
+           padding: 5px;
+           box-sizing: border-box;    
+        }
+         
+        .project-img img {
+            width: 500px;
+        }
+}
